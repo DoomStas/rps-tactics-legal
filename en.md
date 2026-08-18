@@ -1,6 +1,6 @@
 # Privacy Policy — RPS Tactics
 
-**Last updated:** 13 August 2026
+**Last updated:** 18 August 2026
 
 This game is made by one person. This document describes exactly what the
 game does — it was written from its source code, not copied from a template.
@@ -18,7 +18,7 @@ collects device data — and only if you allow it.
 
 ---
 
-## Stored on your device and never sent anywhere
+## Stored on your device
 
 - points, level, matches played, wins, losses and draws;
 - the language you selected;
@@ -28,7 +28,10 @@ collects device data — and only if you allow it.
 - your answer about personalised ads.
 
 This is kept in the app's storage on your device. Delete the game and it goes
-with it. We have no access to it.
+with it.
+
+If you link an account, the first item on this list — your game progress — is
+also stored in the cloud, see below. Everything else never leaves your device.
 
 ---
 
@@ -42,8 +45,9 @@ requested or transmitted.
 
 Technically it is a random string that cannot be traced back to a person.
 
-If you reinstall the game you get a new account, and the previous progress
-and leaderboard place become unreachable.
+If you reinstall the game you get a new account, and the previous progress and
+leaderboard place become unreachable. Linking an account avoids this: both come
+back on any device.
 
 ### Display name
 
@@ -57,6 +61,25 @@ email, phone number or anything else you would not share with strangers.
 
 Only the number of wins over live players is sent. Wins over the computer
 are not counted.
+
+### Progress in the cloud
+
+If you link an account, your game progress — points, level, matches played,
+wins, losses and draws — is stored on Unity servers as well as on your device.
+This is what makes progress survive a change of phone or a reinstall.
+
+Without a linked account, progress stays on your device only.
+
+### Account linking
+
+Linking is optional. The game works without it.
+
+If you do link, sign-in goes through a Unity account, and Unity passes only an
+identifier to the game — that is what lets another device recognise you. Your
+email and password are never passed to the game: Unity handles them on its own
+side.
+
+You can unlink the account in the game settings, in the same place you linked it.
 
 ### Online play
 
